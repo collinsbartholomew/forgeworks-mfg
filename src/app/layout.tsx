@@ -11,8 +11,7 @@ export const metadata: Metadata = {
     template: "%s – ForgeWorks MFG",
   },
       description:
-      "ForgeWorks MFG provides precision CNC machining, steel fabrication, plastic injection molding, and custom manufacturing solutions for automotive, energy, and industrial clients worldwide.",
-    "Fabrik is a leading manufacturer specializing in steel products, precision machining, and custom manufacturing solutions for automotive, construction, energy, and industrial sectors.",
+      "ForgeWorks MFG provides precision CNC machining, steel fabrication, plastic injection molding, and custom manufacturing solutions for automotive, energy, and industrial clients worldwide."
   openGraph: {
     title: "ForgeWorks MFG",
     description:
