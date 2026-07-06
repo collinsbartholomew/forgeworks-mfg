@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   },
       description:
       "ForgeWorks MFG provides precision CNC machining, steel fabrication, plastic injection molding, and custom manufacturing solutions for automotive, energy, and industrial clients worldwide."
-  openGraph: {
+  , openGraph: {
     title: "ForgeWorks MFG",
     description:
       "Leading manufacturer of steel products, precision machining, and custom manufacturing solutions.",
